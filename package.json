@@ -1,0 +1,16 @@
+{
+  "name": "solmee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^4.15.10"
+  },
+  "author": "solmi",
+  "license": "ISC"
+}
